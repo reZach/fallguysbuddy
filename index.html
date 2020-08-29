@@ -1,39 +1,52 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Fall Guys Buddy</title>
         <style>
-            .square {
-                display: inline-block;
-                width: 50px;
-                height: 50px;
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+            .container {
+                display: grid;
+                height: 20%;
+                width: 80%;
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+            }
+            .square {                
                 border: 1px solid black;
             }
         </style>
     </head>
     <body>
-        <div class="row">
+        <div class="container">
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
         </div>
-        <div class="row">
+        <div class="container">
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
         </div>
-        <div class="row">
+        <div class="container">
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
         </div>
-        <div class="row">
+        <div class="container">
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
             <div class="square"></div>
         </div>
+        <script>
+            document.getElementsByClassName(".square").onclick(function(e){
+                console.warn("a");
+            });
+        </script>
     </body>
 </html>
