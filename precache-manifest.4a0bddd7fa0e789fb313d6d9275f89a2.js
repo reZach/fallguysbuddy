@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db1b7d2724feb390338857be1395307c",
+    "revision": "c0274bfe7e7ba6b14917998b355c3e21",
     "url": "/fallguysbuddy/index.html"
   },
   {
