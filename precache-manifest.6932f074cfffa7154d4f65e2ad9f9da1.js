@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b81dafbb266fe4ea549280f0a485a48c",
+    "revision": "f254a22ede58ed01bb768d5f4d6646cc",
     "url": "/fallguysbuddy/index.html"
   },
   {
-    "revision": "0aaff4be204339f0055b",
-    "url": "/fallguysbuddy/static/css/main.fdacdfb0.chunk.css"
+    "revision": "13196d1f9afa4d76dcef",
+    "url": "/fallguysbuddy/static/css/main.c6dee777.chunk.css"
   },
   {
     "revision": "a32d524c8da560d2b7e0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fallguysbuddy/static/js/2.9c919b64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0aaff4be204339f0055b",
-    "url": "/fallguysbuddy/static/js/main.cf2f5fdf.chunk.js"
+    "revision": "13196d1f9afa4d76dcef",
+    "url": "/fallguysbuddy/static/js/main.7d8de3ee.chunk.js"
   },
   {
     "revision": "b114c8a0eda526133199",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fallguysbuddy/precache-manifest.88642c4de47b94424eb6bf6d6681b426.js"
+  "/fallguysbuddy/precache-manifest.6932f074cfffa7154d4f65e2ad9f9da1.js"
 );
 
 self.addEventListener('message', (event) => {
