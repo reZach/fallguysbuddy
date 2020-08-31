@@ -100,14 +100,11 @@ class App extends Component {
           <img className={`fruit ${this.state.selectedFruit === cherry ? "selected" : ""}`} alt="cherry" src={cherry} onClick={this.selectFruit} />
         </div>
         <div className="container-wide">
-          <div>
-              <div >
-                  Grape icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from
-                  <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a><br />
-                  Rest of the icons made by <a href="https://www.flaticon.com/authors/icongeek26"
+          <div className="overflow">
+            Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/icongeek26"
                       title="Icongeek26">Icongeek26</a> from <a href="https://www.flaticon.com/"
-                      title="Flaticon">www.flaticon.com</a>
-              </div>
+                      title="Flaticon">flaticon</a>.<br />
+            <a href="https://github.com/reZach/fallguysbuddy">Github</a>
           </div>
           <div></div>
           <img className={`fruit ${this.state.selectedFruit === watermelon ? "selected" : ""}`} alt="watermelon" src={watermelon} onClick={this.selectFruit} />

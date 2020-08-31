@@ -50,3 +50,7 @@ body,
 .selected {
   background-color: blue;
 }
+
+.overflow {
+  overflow: hidden;
+}
