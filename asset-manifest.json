@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fallguysbuddy/static/css/main.fdacdfb0.chunk.css",
+    "main.js": "/fallguysbuddy/static/js/main.cf2f5fdf.chunk.js",
+    "main.js.map": "/fallguysbuddy/static/js/main.cf2f5fdf.chunk.js.map",
+    "runtime-main.js": "/fallguysbuddy/static/js/runtime-main.b8b0d3e1.js",
+    "runtime-main.js.map": "/fallguysbuddy/static/js/runtime-main.b8b0d3e1.js.map",
+    "static/js/2.9c919b64.chunk.js": "/fallguysbuddy/static/js/2.9c919b64.chunk.js",
+    "static/js/2.9c919b64.chunk.js.map": "/fallguysbuddy/static/js/2.9c919b64.chunk.js.map",
+    "index.html": "/fallguysbuddy/index.html",
+    "precache-manifest.88642c4de47b94424eb6bf6d6681b426.js": "/fallguysbuddy/precache-manifest.88642c4de47b94424eb6bf6d6681b426.js",
+    "service-worker.js": "/fallguysbuddy/service-worker.js",
+    "static/css/main.fdacdfb0.chunk.css.map": "/fallguysbuddy/static/css/main.fdacdfb0.chunk.css.map",
+    "static/js/2.9c919b64.chunk.js.LICENSE.txt": "/fallguysbuddy/static/js/2.9c919b64.chunk.js.LICENSE.txt",
+    "static/media/apple.svg": "/fallguysbuddy/static/media/apple.66c7043b.svg",
+    "static/media/bananas.svg": "/fallguysbuddy/static/media/bananas.4ecc7b9d.svg",
+    "static/media/cherry.svg": "/fallguysbuddy/static/media/cherry.8457c8e1.svg",
+    "static/media/grape.svg": "/fallguysbuddy/static/media/grape.0dbf486d.svg",
+    "static/media/orange.svg": "/fallguysbuddy/static/media/orange.7f1ff9f9.svg",
+    "static/media/watermelon.svg": "/fallguysbuddy/static/media/watermelon.e57d812f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b0d3e1.js",
+    "static/js/2.9c919b64.chunk.js",
+    "static/css/main.fdacdfb0.chunk.css",
+    "static/js/main.cf2f5fdf.chunk.js"
+  ]
+}
